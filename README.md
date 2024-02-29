@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Fiorella Estrada</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭Estoy desarrollando una Tienda Online [Shuri Modas - Tacna](https://pruebas.dxioscrl.com/)
+- 🔭Estoy desarrollando una Tienda Online para la empresa [Shuri Modas - Tacna, la cual se encuentra en la fase de pruebas:](https://pruebas.dxioscrl.com/)
 
 - 📫 Envíame un mensaje a: **zoe.dfio@gmail.com**
 
