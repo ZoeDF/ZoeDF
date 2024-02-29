@@ -2,6 +2,10 @@
 <h3 align="center">Frontend Developer</h3>
 
 - 🔭Estoy desarrollando una Tienda Online para la empresa SHURI, la cual se encuentra en la fase de pruebas [Shuri Modas - Tacna](https://pruebas.dxioscrl.com/)
+- 🔭He participado en el desarrollo de un sitio web de ropa deportiva [LFA SPORTS](https://www.lfasportscatalogo.com/)
+- 🔭He participado en el desarrollo de un sitio web informativo educativo [EL POSTULANTE](http://www.elpostulante.net/)
+- 🔭He participado en el desarrollo de un sitio web de informática/soporte técnico [KREATECH](https://www.cylex.com.pe/san-borja/krea-tech-s-a-c---servicio-tecnico-de-pc-para-empresas-y-usuarios-11186966.html)
+- 🔭He participado en diferentes proyectos de sotware, los cuales se subirán al presente repositorio.
 
 - 📫 Envíame un mensaje a: **zoe.dfio@gmail.com**
 
